@@ -1,0 +1,25 @@
+{
+  "name": "foxtrel-command-server",
+  "version": "0.0.1",
+  "description": "foxtrel server command",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qzhongyou/foxtrel-command-server.git"
+  },
+  "keywords": [
+    "foxtrel",
+    "server"
+  ],
+  "author": "玉面",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzhongyou/foxtrel-command-server/issues"
+  },
+  "homepage": "https://github.com/qzhongyou/foxtrel-command-server#readme"
+}
