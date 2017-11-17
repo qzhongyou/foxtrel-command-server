@@ -2,7 +2,7 @@
   "name": "foxtrel-command-server",
   "version": "0.0.1",
   "description": "foxtrel server command",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
