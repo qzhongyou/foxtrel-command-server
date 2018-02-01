@@ -1,6 +1,6 @@
 {
   "name": "foxtrel-command-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "foxtrel server command",
   "main": "server.js",
   "dependencies": {
@@ -8,7 +8,8 @@
     "gulp-babel": "^7.0.0",
     "gulp-load-plugins": "^1.5.0",
     "gulp-newer": "^1.4.0",
-    "gulp-nodemon": "^2.2.1"
+    "gulp-nodemon": "^2.2.1",
+    "gulp-change": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
