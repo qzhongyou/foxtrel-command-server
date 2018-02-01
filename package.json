@@ -1,6 +1,6 @@
 {
   "name": "foxtrel-command-server",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "foxtrel server command",
   "main": "server.js",
   "dependencies": {

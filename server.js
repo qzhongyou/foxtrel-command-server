@@ -28,6 +28,12 @@ function server(command, options) {
     //设置项目根目录
     foxtrel.project.setProjectRoot(options.root);
 
+    //配置文件读取
+    let configFile = foxtrel.project.getProjectRoot(options.file);
+    if (configFile) {
+        require(configFile);
+    }
+
     foxtrel.config.set('serverFile', command);
     const gulp = require('./lib/gulp');
 
